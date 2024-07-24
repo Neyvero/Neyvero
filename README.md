@@ -18,3 +18,4 @@ Estou atualmente cursando faculdade de Engenharia de Software na faculdade UDF, 
 ### Redes Sociais
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neyversonjunio/)
+[![Social](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyverson-júnio-de-albuquerque-santos-60452831b/)
